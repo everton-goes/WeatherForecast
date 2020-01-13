@@ -37,7 +37,7 @@ password: root
 
 - Baixar a branch master do repositorio https://github.com/everton-goes/WeatherForecast.git
 
-- Importar o projeto na IDE
+- Importar o projeto na IDE utilizando o Maven
 
 - Logo após o Maven importar todas as dependencias executar a classe Main WeatherforecastApplication
  localizada em com.teste.web.hbsis.weatherforecast.WeatherforecastApplication
