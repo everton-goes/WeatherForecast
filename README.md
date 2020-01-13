@@ -28,10 +28,10 @@ temperatuda máxima e tempo.
 Importar/rodar o projeto
 
 - Criar uma conexão no banco de dados MySQL com as seguintes informações:
-Hostname: localhost
-Port: 3306
-username: root
-password: root
+- Hostname: localhost
+- Port: 3306
+- username: root
+- password: root
 
 - Rodar o script do arquivo create_database.sql no banco de dados
 
