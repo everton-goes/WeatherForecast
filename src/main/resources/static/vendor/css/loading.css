@@ -1,0 +1,8 @@
+ .load {
+    width: 5px;
+    height: 5px;
+    position: sticky;
+    top: 40%;
+    left: 45%;
+    margin-top: 10px;
+}

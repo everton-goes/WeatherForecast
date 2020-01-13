@@ -1,0 +1,8 @@
+CREATE DATABASE weather_forecast CHARACTER SET UTF8mb4 COLLATE utf8mb4_unicode_ci;
+
+CREATE TABLE cidades (
+id INT AUTO_INCREMENT PRIMARY KEY,
+id_cidade INT NOT NULL,
+nome_cidade VARCHAR(255) NOT NULL,
+sigla_pais VARCHAR(2) NOT NULL
+)
