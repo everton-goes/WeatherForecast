@@ -42,3 +42,4 @@ Importar/rodar o projeto
 - Logo após o Maven importar todas as dependencias executar a classe Main WeatherforecastApplication
  localizada em com.teste.web.hbsis.weatherforecast.WeatherforecastApplication
 
+- Após o tomcat startar, acessar o site com localhost:8080
